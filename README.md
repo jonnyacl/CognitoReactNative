@@ -11,7 +11,7 @@ const cognito = {
 };
 ```
 
-To set up an AWS cognito stack, see this project: ```https://github.com/jonnyacl/serverless-app```
+To set up an AWS cognito stack, see this project: https://github.com/jonnyacl/serverless-app
 
 To run: 
 ```
